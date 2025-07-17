@@ -20,7 +20,7 @@ The internship focuses on applying Large Language Models (LLMs) — specifically
 
    III. Vector-based semantic retrieval using FAISS
 
-5) Evaluation Metrics: Accuracy, Precision, Recall, F1 Score, FPR, FNR
+5) Evaluation Metrics: Accuracy, Precision, Recall, F1 Score,  Specificity, FPR, FNR
 
 6) Tools: Hugging Face Transformers, SentenceTransformers, FAISS, Google Colab Pro, Pytorch
 7) Programming Language: Python, Solidity
@@ -33,6 +33,7 @@ The internship focuses on applying Large Language Models (LLMs) — specifically
 | Precision | 89.57%       | 97.09%               |
 | Recall    | 85.00%       | **100.00%**          |
 | F1 Score  | 87.22%       | 98.52%               |
+| Specificity| 90.10%      | 97.00%               |
 | FNR       | 15.00%       | **0.00%**            |
 | FPR       | 9.90%        | 3.00%                |
 
