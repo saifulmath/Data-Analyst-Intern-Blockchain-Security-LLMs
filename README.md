@@ -1,7 +1,7 @@
 📘 Internship Report: Analyzing Smart Contract Exploits or Other Security Incidents with LLMs
 
 🔍 Overview
-This repository contains the final internship report authored by Mohd Saiful Islam, as part of the Applied Mathematics for Network and Data Sciences program at Hochschule Mittweida.
+This repository contains the final internship report authored by Mohd Saiful Islam, as part of the Applied Mathematics for Network and Data Sciences program at Mittweida University of Applied Sciences.
 
 The internship focuses on applying Large Language Models (LLMs) — specifically the Meta LLaMA-3-8B-Instruct model — to analyze and detect vulnerabilities in Ethereum smart contracts. The core contribution lies in evaluating and comparing baseline and Retrieval-Augmented Generation (RAG)-enhanced LLMs to detect reentrancy attacks, one of the most critical threats in decentralized finance (DeFi).
 
